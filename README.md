@@ -15,7 +15,7 @@ You can always download the [latest release from here](https://github.com/darria
 ## Requisites
 Since these are PSDs files, you'll need [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) to open them. Works with Photoshop CS6 and later.
 
-## How-To & Tweaks
+## How-To
 You can visit the [Boxset wiki](https://github.com/darriagada/Boxset/wiki) to learn more about the usage and best practices. If you run into problems, you can always have a look at the [Known Issues chapter](https://github.com/darriagada/Boxset/wiki/Known-Issues). And if things go even further, you should open a new issue to let me know!
 
 ## License
