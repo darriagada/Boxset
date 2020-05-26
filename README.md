@@ -22,4 +22,7 @@ You can visit the [Boxset wiki](https://github.com/darriagada/Boxset/wiki) to le
 ## Déjà vu
 Probably. I launched this on Gumroad in 2019 but I wanted to make it free, so everybody can use it.
 
+## License
+This work is published under the Unlicense which basically means, you are free to use it for personal and commercial projects, remix it, share it, etc. No attribution required. You can [read more about here](https://spdx.org/licenses/Unlicense.html).
+
 I hope you like it!
