@@ -1,14 +1,13 @@
 # Boxset Mockup
 A (free) multipurpose packaging mockup for Adobe Photoshop.
 
-![Screenshot](https://github.com/darriagada/Boxset/raw/master/hero.png)
-
-
 This pack features:
 * 6 different angles.
 * Optional plastic wrap texture.
 * A plastic haging hook (like the ones from retail shelves).
 * In 4K resolution.
+
+![Screenshot](https://github.com/darriagada/Boxset/raw/master/hero.png)
 
 ## Download
 You can always download the [latest release from here](https://github.com/darriagada/Boxset/releases).
