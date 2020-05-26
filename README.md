@@ -7,6 +7,9 @@ This pack features:
 * A plastic haging hook (like the ones from retail shelves).
 * In 4K resolution.
 
+## Give me
+You can always download the [latest release from here](https://github.com/darriagada/Boxset/releases).
+
 ## Why?
 I was in a hurry and couldn't find an specific box mockup for a project so I ended up making one from scratch. It's a little bit rough on the edges but it does the job. Of course I didn't want to let the files rot in my drive and maybe someone else will find it useful one day, so here it is!
 
