@@ -11,8 +11,8 @@ This pack features:
 You can always download the [latest release from here](https://github.com/darriagada/Boxset/releases/latest).
 
 ### Examples
-![Example boxes](https://github.com/darriagada/Boxset/blob/master/docs/img/gallery_boxes%402x.png)
-![Example Box Set](https://github.com/darriagada/Boxset/blob/master/docs/img/hero_min.png)
+![Example boxes](https://github.com/darriagada/Boxset/blob/alpha/docs/img/gallery_boxes%402x.png)
+![Example Box Set](https://github.com/darriagada/Boxset/blob/alpha/docs/img/hero_min.png)
 
 ### Requisites
 Since these are PSDs files, you'll need [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) to open them. Works with Photoshop CS6 and later.
