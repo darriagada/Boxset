@@ -26,4 +26,4 @@ You can always download the [latest release from here](https://github.com/darria
 This work is published under the [CC0 1.0 license](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ## About
-I was in a hurry and couldn't find an specific box mockup for a project so I ended up making one from scratch. It's a little bit rough on the edges but it does the job. Why let the files rot in my drive if someone else can find it useful one day? Originally, I launched this on Gumroad in 2019 but now I wanted to make it free for everybody.
+I was in a hurry and couldn't find an specific box mockup for a project so I ended up making one from scratch. It's a little bit rough on the edges but it does the job. Now, I wanted to share it with anybody who needs it.
