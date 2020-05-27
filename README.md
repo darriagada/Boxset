@@ -1,4 +1,4 @@
-![Screenshot](https://github.com/darriagada/Boxset/blob/master/docs/img/A.png)
+![Screenshot](https://github.com/darriagada/Boxset/blob/master/docs/img/hero.png)
 
 # Boxset Mockup
 A (free) multipurpose packaging mockup for Adobe Photoshop.
