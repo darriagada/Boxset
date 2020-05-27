@@ -19,7 +19,7 @@ Since these are PSDs files, you'll need [Adobe Photoshop](https://www.adobe.com/
 You can visit the [Boxset wiki](https://github.com/darriagada/Boxset/wiki) to learn more about the usage and best practices. If you run into problems, you can always have a look at the [Known Issues chapter](https://github.com/darriagada/Boxset/wiki/Known-Issues). And if things go even further, you should open a new issue to let me know!
 
 ## License
-This work is published under the Unlicense which basically means, you are free to use it for personal and commercial projects, remix it, share it, etc. No attribution required. You can [read more about here](https://spdx.org/licenses/Unlicense.html).
+This work is published under the [CC0 1.0 license](https://creativecommons.org/publicdomain/zero/1.0/).
 
 
 ## About
