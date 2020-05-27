@@ -22,9 +22,7 @@ You can visit the [Boxset wiki](https://github.com/darriagada/Boxset/wiki) to le
 This work is published under the Unlicense which basically means, you are free to use it for personal and commercial projects, remix it, share it, etc. No attribution required. You can [read more about here](https://spdx.org/licenses/Unlicense.html).
 
 
-## Misc
-
-#### About
+## About
 I was in a hurry and couldn't find an specific box mockup for a project so I ended up making one from scratch. It's a little bit rough on the edges but it does the job. Of course I didn't want to let the files rot in my drive and maybe someone else will find it useful one day, so here it is!
 
 Originally, I launched this on Gumroad in 2019 but now I wanted to make it free for everybody.
