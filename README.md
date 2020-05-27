@@ -15,11 +15,12 @@ You can always download the [latest release from here](https://github.com/darria
 ![Example Box Set](https://github.com/darriagada/Boxset/blob/alpha/docs/img/hero_min.png)
 
 ### Requisites
-To open PSD files you'll need [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) to open them.
-Should work with Photoshop CS6 and later.
+* To open these PSD files you'll need [Adobe Photoshop CS6 or later](https://www.adobe.com/products/photoshop.html).
 
 ### How-To
-Visit the [Boxset wiki](https://github.com/darriagada/Boxset/wiki) to learn more about the usage and best practices. If you run into problems, have a look at the [Known Issues](https://github.com/darriagada/Boxset/wiki/Known-Issues). And if things go south, don't hesitate to let me know in this repo [issue tracker](https://github.com/darriagada/Boxset/issues).
+* Visit the [Boxset wiki](https://github.com/darriagada/Boxset/wiki) to learn more about the usage and best practices.
+* If you run into problems, have a look at the [Known Issues](https://github.com/darriagada/Boxset/wiki/Known-Issues). 
+* Any other problems can be [reported here](https://github.com/darriagada/Boxset/issues).
 
 ### License
 This work is published under the [CC0 1.0 license](https://creativecommons.org/publicdomain/zero/1.0/).
