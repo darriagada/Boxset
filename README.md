@@ -7,7 +7,7 @@ This pack features:
 * A plastic haging hook (like the ones from retail shelves).
 * In 4K resolution.
 
-![Screenshot](https://github.com/darriagada/Boxset/raw/master/angles.png)
+![Screenshot](https://github.com/darriagada/Boxset/blob/master/docs/img/A.png)
 
 ## Download
 You can always download the [latest release from here](https://github.com/darriagada/Boxset/releases).
