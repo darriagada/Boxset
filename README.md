@@ -8,7 +8,7 @@ This pack features:
 * In 4K resolution.
 
 ### Download
-You can always download the [latest release from here](https://github.com/darriagada/Boxset/releases).
+You can always download the [latest release from here](https://github.com/darriagada/Boxset/releases/latest).
 
 ### Examples
 ![Example boxes](https://github.com/darriagada/Boxset/blob/master/docs/img/gallery_boxes%402x.png)
